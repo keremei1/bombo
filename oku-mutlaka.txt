@@ -1,0 +1,11 @@
+Selam, geliştirmiş olduğum güncel sms bomber botudur. Nickname. Bombot :)
+
+Botun intentlerini açmayı unutmayın intent nedir bilmiyorsanız internetten araştırabilirsiniz.
+Çalıştırmak için python kurmalısın ve pip modülünü indirmelisin. 
+Discorddan nasıl-kurulur kanalından kurulumu görebilirsiniz. Ek olarak setup.bat dosyasını çalıştır.
+Sorumluluk kabul etmiyorum iyi kullanımlar.
+
+
+
+-by YILDIRIM/İSRAİL/FİSCHER/AKAFEİGENBAUM/PALA/RAMİZKARAESKİ/SARI SAKAL/PEACH/BANNED/FEİGENBAUM/SELASVİLİ
+#SİZİNBİZİYENMENİZNEMÜMKÜN ELBER BİR GÜN 🕊️
